@@ -1,2 +1,2 @@
 # yesnoWTF
-Socradar internship project 
+//Requirements : Live Server  
