@@ -1,5 +1,5 @@
 const giris = document.querySelector("#box1");
-const page = document.querySelector('.backgroundimg');
+const page = document.querySelector('.background-img');
 const input = document.querySelector('input');
 const yes = document.querySelector("#yes");
 const no = document.querySelector("#no");
